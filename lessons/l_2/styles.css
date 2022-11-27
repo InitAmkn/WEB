@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(155, 174, 211);
+}
+#header {
+    background-color:rgb(156, 203, 230);
+}
+.red_txt{
+    color: brown;
+}
+img{
+    width: 50vw;
+    
+}
